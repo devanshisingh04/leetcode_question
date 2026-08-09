@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/devanshisingh04/leetcode_question/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/devanshisingh04/leetcode_question/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/devanshisingh04/leetcode_question/tree/master/0412-fizz-buzz) |
 | [2413-smallest-even-multiple](https://github.com/devanshisingh04/leetcode_question/tree/master/2413-smallest-even-multiple) |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/devanshisingh04/leetcode_question/tree/master/0069-sqrtx) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/devanshisingh04/leetcode_question/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
