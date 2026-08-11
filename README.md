@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/devanshisingh04/leetcode_question/tree/master/0506-relative-ranks) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/devanshisingh04/leetcode_question/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Number Theory
 |  |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/devanshisingh04/leetcode_question/tree/master/0050-powx-n) |
+## Sorting
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/devanshisingh04/leetcode_question/tree/master/0506-relative-ranks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/devanshisingh04/leetcode_question/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
