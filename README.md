@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/devanshisingh04/leetcode_question/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/devanshisingh04/leetcode_question/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/devanshisingh04/leetcode_question/tree/master/0506-relative-ranks) |
 | [1480-running-sum-of-1d-array](https://github.com/devanshisingh04/leetcode_question/tree/master/1480-running-sum-of-1d-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/devanshisingh04/leetcode_question/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/devanshisingh04/leetcode_question/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/devanshisingh04/leetcode_question/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
