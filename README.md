@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/devanshisingh04/leetcode_question/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/devanshisingh04/leetcode_question/tree/master/0303-range-sum-query-immutable) |
 | [0506-relative-ranks](https://github.com/devanshisingh04/leetcode_question/tree/master/0506-relative-ranks) |
+| [0643-maximum-average-subarray-i](https://github.com/devanshisingh04/leetcode_question/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/devanshisingh04/leetcode_question/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/devanshisingh04/leetcode_question/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/devanshisingh04/leetcode_question/tree/master/1732-find-the-highest-altitude) |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/devanshisingh04/leetcode_question/tree/master/0303-range-sum-query-immutable) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/devanshisingh04/leetcode_question/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
