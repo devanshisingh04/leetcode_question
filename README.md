@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/devanshisingh04/leetcode_question/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/devanshisingh04/leetcode_question/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/devanshisingh04/leetcode_question/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshisingh04/leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/devanshisingh04/leetcode_question/tree/master/0283-move-zeroes) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/devanshisingh04/leetcode_question/tree/master/0088-merge-sorted-array) |
 | [0506-relative-ranks](https://github.com/devanshisingh04/leetcode_question/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/devanshisingh04/leetcode_question/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshisingh04/leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/devanshisingh04/leetcode_question/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/devanshisingh04/leetcode_question/tree/master/0344-reverse-string) |
