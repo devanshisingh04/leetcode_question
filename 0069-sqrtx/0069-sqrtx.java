@@ -4,5 +4,5 @@ class Solution {
          while((long)i*i<=x){
             i++;
          }return i-1;
-} 
+    } 
 }
