@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/devanshisingh04/leetcode_question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/devanshisingh04/leetcode_question/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/devanshisingh04/leetcode_question/tree/master/0412-fizz-buzz) |
 ## Simulation
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/devanshisingh04/leetcode_question/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/devanshisingh04/leetcode_question/tree/master/0242-valid-anagram) |
 | [0506-relative-ranks](https://github.com/devanshisingh04/leetcode_question/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/devanshisingh04/leetcode_question/tree/master/1672-richest-customer-wealth) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/devanshisingh04/leetcode_question/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
