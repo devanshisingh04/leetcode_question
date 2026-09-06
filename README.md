@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/devanshisingh04/leetcode_question/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/devanshisingh04/leetcode_question/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/devanshisingh04/leetcode_question/tree/master/1678-goal-parser-interpretation) |
+| [1816-truncate-sentence](https://github.com/devanshisingh04/leetcode_question/tree/master/1816-truncate-sentence) |
 ## Simulation
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/devanshisingh04/leetcode_question/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/devanshisingh04/leetcode_question/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/devanshisingh04/leetcode_question/tree/master/1732-find-the-highest-altitude) |
+| [1816-truncate-sentence](https://github.com/devanshisingh04/leetcode_question/tree/master/1816-truncate-sentence) |
 | [1991-find-the-middle-index-in-array](https://github.com/devanshisingh04/leetcode_question/tree/master/1991-find-the-middle-index-in-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/devanshisingh04/leetcode_question/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Number Theory
