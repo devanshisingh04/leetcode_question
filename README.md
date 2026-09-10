@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/devanshisingh04/leetcode_question/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/devanshisingh04/leetcode_question/tree/master/1816-truncate-sentence) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devanshisingh04/leetcode_question/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/devanshisingh04/leetcode_question/tree/master/2531-make-number-of-distinct-characters-equal) |
 ## Simulation
 |  |
 | ------- |
@@ -113,9 +114,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/devanshisingh04/leetcode_question/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/devanshisingh04/leetcode_question/tree/master/0771-jewels-and-stones) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devanshisingh04/leetcode_question/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/devanshisingh04/leetcode_question/tree/master/2531-make-number-of-distinct-characters-equal) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/devanshisingh04/leetcode_question/tree/master/0383-ransom-note) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devanshisingh04/leetcode_question/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/devanshisingh04/leetcode_question/tree/master/2531-make-number-of-distinct-characters-equal) |
 <!---LeetCode Topics End-->
