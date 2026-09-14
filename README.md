@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/devanshisingh04/leetcode_question/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/devanshisingh04/leetcode_question/tree/master/1816-truncate-sentence) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devanshisingh04/leetcode_question/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/devanshisingh04/leetcode_question/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/devanshisingh04/leetcode_question/tree/master/2531-make-number-of-distinct-characters-equal) |
 ## Simulation
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/devanshisingh04/leetcode_question/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/devanshisingh04/leetcode_question/tree/master/1816-truncate-sentence) |
 | [1991-find-the-middle-index-in-array](https://github.com/devanshisingh04/leetcode_question/tree/master/1991-find-the-middle-index-in-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/devanshisingh04/leetcode_question/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/devanshisingh04/leetcode_question/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Number Theory
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/devanshisingh04/leetcode_question/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/devanshisingh04/leetcode_question/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/devanshisingh04/leetcode_question/tree/master/0680-valid-palindrome-ii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/devanshisingh04/leetcode_question/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Design
 |  |
 | ------- |
