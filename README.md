@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/devanshisingh04/leetcode_question/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/devanshisingh04/leetcode_question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/devanshisingh04/leetcode_question/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/devanshisingh04/leetcode_question/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/devanshisingh04/leetcode_question/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/devanshisingh04/leetcode_question/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/devanshisingh04/leetcode_question/tree/master/0709-to-lower-case) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshisingh04/leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/devanshisingh04/leetcode_question/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/devanshisingh04/leetcode_question/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/devanshisingh04/leetcode_question/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/devanshisingh04/leetcode_question/tree/master/0680-valid-palindrome-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/devanshisingh04/leetcode_question/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Design
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/devanshisingh04/leetcode_question/tree/master/0680-valid-palindrome-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/devanshisingh04/leetcode_question/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
