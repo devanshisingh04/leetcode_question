@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/devanshisingh04/leetcode_question/tree/master/0303-range-sum-query-immutable) |
 | [0506-relative-ranks](https://github.com/devanshisingh04/leetcode_question/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/devanshisingh04/leetcode_question/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/devanshisingh04/leetcode_question/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/devanshisingh04/leetcode_question/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/devanshisingh04/leetcode_question/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/devanshisingh04/leetcode_question/tree/master/1672-richest-customer-wealth) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/devanshisingh04/leetcode_question/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshisingh04/leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/devanshisingh04/leetcode_question/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/devanshisingh04/leetcode_question/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
 | ------- |
