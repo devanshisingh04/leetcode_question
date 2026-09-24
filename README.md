@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshisingh04/leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/devanshisingh04/leetcode_question/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/devanshisingh04/leetcode_question/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/devanshisingh04/leetcode_question/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/devanshisingh04/leetcode_question/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/devanshisingh04/leetcode_question/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/devanshisingh04/leetcode_question/tree/master/0704-binary-search) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devanshisingh04/leetcode_question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/devanshisingh04/leetcode_question/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshisingh04/leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/devanshisingh04/leetcode_question/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/devanshisingh04/leetcode_question/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/devanshisingh04/leetcode_question/tree/master/0704-binary-search) |
 ## Newton's Method
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/devanshisingh04/leetcode_question/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/devanshisingh04/leetcode_question/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/devanshisingh04/leetcode_question/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/devanshisingh04/leetcode_question/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/devanshisingh04/leetcode_question/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/devanshisingh04/leetcode_question/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devanshisingh04/leetcode_question/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/devanshisingh04/leetcode_question/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/devanshisingh04/leetcode_question/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/devanshisingh04/leetcode_question/tree/master/0680-valid-palindrome-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/devanshisingh04/leetcode_question/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -128,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/devanshisingh04/leetcode_question/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/devanshisingh04/leetcode_question/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/devanshisingh04/leetcode_question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/devanshisingh04/leetcode_question/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/devanshisingh04/leetcode_question/tree/master/0771-jewels-and-stones) |
