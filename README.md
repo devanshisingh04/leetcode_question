@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/devanshisingh04/leetcode_question/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/devanshisingh04/leetcode_question/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/devanshisingh04/leetcode_question/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/devanshisingh04/leetcode_question/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/devanshisingh04/leetcode_question/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/devanshisingh04/leetcode_question/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/devanshisingh04/leetcode_question/tree/master/1732-find-the-highest-altitude) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/devanshisingh04/leetcode_question/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/devanshisingh04/leetcode_question/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/devanshisingh04/leetcode_question/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/devanshisingh04/leetcode_question/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Newton's Method
 |  |
 | ------- |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/devanshisingh04/leetcode_question/tree/master/0392-is-subsequence) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/devanshisingh04/leetcode_question/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
