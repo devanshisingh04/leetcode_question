@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/devanshisingh04/leetcode_question/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshisingh04/leetcode_question/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/devanshisingh04/leetcode_question/tree/master/0506-relative-ranks) |
+| [0540-single-element-in-a-sorted-array](https://github.com/devanshisingh04/leetcode_question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/devanshisingh04/leetcode_question/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/devanshisingh04/leetcode_question/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/devanshisingh04/leetcode_question/tree/master/0724-find-pivot-index) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshisingh04/leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/devanshisingh04/leetcode_question/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/devanshisingh04/leetcode_question/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/devanshisingh04/leetcode_question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/devanshisingh04/leetcode_question/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/devanshisingh04/leetcode_question/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/devanshisingh04/leetcode_question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
