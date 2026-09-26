@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/devanshisingh04/leetcode_question/tree/master/1816-truncate-sentence) |
 | [1991-find-the-middle-index-in-array](https://github.com/devanshisingh04/leetcode_question/tree/master/1991-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/devanshisingh04/leetcode_question/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/devanshisingh04/leetcode_question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/devanshisingh04/leetcode_question/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Number Theory
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/devanshisingh04/leetcode_question/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/devanshisingh04/leetcode_question/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/devanshisingh04/leetcode_question/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/devanshisingh04/leetcode_question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Newton's Method
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/devanshisingh04/leetcode_question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/devanshisingh04/leetcode_question/tree/master/0387-first-unique-character-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devanshisingh04/leetcode_question/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/devanshisingh04/leetcode_question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/devanshisingh04/leetcode_question/tree/master/2531-make-number-of-distinct-characters-equal) |
 ## Queue
 |  |
