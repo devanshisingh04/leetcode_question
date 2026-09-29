@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/devanshisingh04/leetcode_question/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/devanshisingh04/leetcode_question/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/devanshisingh04/leetcode_question/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/devanshisingh04/leetcode_question/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/devanshisingh04/leetcode_question/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/devanshisingh04/leetcode_question/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/devanshisingh04/leetcode_question/tree/master/1672-richest-customer-wealth) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/devanshisingh04/leetcode_question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/devanshisingh04/leetcode_question/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/devanshisingh04/leetcode_question/tree/master/0771-jewels-and-stones) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/devanshisingh04/leetcode_question/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devanshisingh04/leetcode_question/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/devanshisingh04/leetcode_question/tree/master/2531-make-number-of-distinct-characters-equal) |
 ## Counting
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/devanshisingh04/leetcode_question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/devanshisingh04/leetcode_question/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/devanshisingh04/leetcode_question/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/devanshisingh04/leetcode_question/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/devanshisingh04/leetcode_question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/devanshisingh04/leetcode_question/tree/master/2531-make-number-of-distinct-characters-equal) |
