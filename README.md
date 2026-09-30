@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/devanshisingh04/leetcode_question/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/devanshisingh04/leetcode_question/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/devanshisingh04/leetcode_question/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/devanshisingh04/leetcode_question/tree/master/0242-valid-anagram) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/devanshisingh04/leetcode_question/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/devanshisingh04/leetcode_question/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/devanshisingh04/leetcode_question/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshisingh04/leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -177,10 +179,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/devanshisingh04/leetcode_question/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/devanshisingh04/leetcode_question/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/devanshisingh04/leetcode_question/tree/master/0647-palindromic-substrings) |
 ## Ternary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/devanshisingh04/leetcode_question/tree/master/0852-peak-index-in-a-mountain-array) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/devanshisingh04/leetcode_question/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
