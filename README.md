@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/devanshisingh04/leetcode_question/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/devanshisingh04/leetcode_question/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/devanshisingh04/leetcode_question/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/devanshisingh04/leetcode_question/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/devanshisingh04/leetcode_question/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/devanshisingh04/leetcode_question/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/devanshisingh04/leetcode_question/tree/master/0771-jewels-and-stones) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/devanshisingh04/leetcode_question/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/devanshisingh04/leetcode_question/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/devanshisingh04/leetcode_question/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/devanshisingh04/leetcode_question/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/devanshisingh04/leetcode_question/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/devanshisingh04/leetcode_question/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/devanshisingh04/leetcode_question/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/devanshisingh04/leetcode_question/tree/master/0678-valid-parenthesis-string) |
 ## Ternary Search
 |  |
 | ------- |
@@ -207,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devanshisingh04/leetcode_question/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/devanshisingh04/leetcode_question/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/devanshisingh04/leetcode_question/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
